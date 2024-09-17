@@ -13,3 +13,4 @@ D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.Ap
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Debug\net8.0\refint\Ecommerce.Application.dll
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.Application.pdb
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Debug\net8.0\ref\Ecommerce.Application.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Debug\net8.0\Ecommerce.Application.sourcelink.json

@@ -17,3 +17,4 @@ D:\MyFolder\Blazor\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net8.0\Ecommerce
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net8.0\ref\Ecommerce.Infrastructure.dll
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Infrastructure\bin\Debug\net8.0\Ecommerce.Infrastructure.runtimeconfig.json
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net8.0\Ecommerce.Infrastructure.genruntimeconfig.cache
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net8.0\Ecommerce.Infrastructure.sourcelink.json

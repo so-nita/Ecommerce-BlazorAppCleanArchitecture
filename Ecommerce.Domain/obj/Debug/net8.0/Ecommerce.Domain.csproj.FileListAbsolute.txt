@@ -9,3 +9,4 @@ D:\MyFolder\Blazor\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.sourcelink.json

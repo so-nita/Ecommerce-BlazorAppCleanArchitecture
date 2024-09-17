@@ -78,3 +78,4 @@ D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\refint\Ecommerce.Web
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.pdb
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.genruntimeconfig.cache
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.sourcelink.json

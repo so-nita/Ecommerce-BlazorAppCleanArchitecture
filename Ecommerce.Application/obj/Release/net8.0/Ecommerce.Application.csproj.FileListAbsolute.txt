@@ -1,0 +1,16 @@
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\bin\Release\net8.0\Ecommerce.Application.deps.json
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\bin\Release\net8.0\Ecommerce.Application.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\bin\Release\net8.0\Ecommerce.Application.pdb
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\bin\Release\net8.0\Ecommerce.Domain.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\bin\Release\net8.0\Ecommerce.Domain.pdb
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.csproj.AssemblyReference.cache
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.AssemblyInfoInputs.cache
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.AssemblyInfo.cs
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.sourcelink.json
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.csproj.CopyComplete
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\refint\Ecommerce.Application.dll
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\Ecommerce.Application.pdb
+D:\MyFolder\Blazor\Ecommerce\Ecommerce.Application\obj\Release\net8.0\ref\Ecommerce.Application.dll

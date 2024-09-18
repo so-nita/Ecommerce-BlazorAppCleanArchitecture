@@ -6,6 +6,6 @@
         counter,
         weather,
         fetchdata,
-        stadiums
+        stadiums,
     }
 }

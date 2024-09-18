@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dcTG9naW4udmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/MyFolder/Blazor/Ecommerce/Ecommerce.Web/Components/Pages/Log/Logout.view.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dcTG9nb3V0LnZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MyFolder/Blazor/Ecommerce/Ecommerce.Web/Components/Pages/Log/Register.view.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dcUmVnaXN0ZXIudmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

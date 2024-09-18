@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {}
+    "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj": {}
   },
   "projects": {
     "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj": {
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj": {
+    "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj",
         "projectName": "Ecommerce.Infrastructure",
-        "projectPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+        "projectPath": "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\obj\\",
+        "outputPath": "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

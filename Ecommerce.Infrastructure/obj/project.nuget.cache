@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xYrRsR2DJxjJAHlGdQKRTKMcRyR/DhIWHv8YUdK9vG4dmI0bLfqUjxDJcxZzCl7Ihy5f4EEBJAa0EJaryxrxYg==",
+  "dgSpecHash": "fs0JOU9XhmGsjda6XVCdrJf+hrx9AKaCSXAKROrZ3Qk6P0dVU0thW6aTr/L9Ky614w3L85+K7vP9mBD71MVZOg==",
   "success": true,
-  "projectFilePath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Back-End.07\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

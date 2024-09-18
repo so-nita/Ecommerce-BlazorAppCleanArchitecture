@@ -8,7 +8,7 @@ namespace Ecommerce.Infrastructure.Repositories
     public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _dbContext;
-        private Hashtable _repositories;
+        private Hashtable _repositories = null!;
         private bool disposed;
 
         public UnitOfWork(ApplicationDbContext dbContext)
@@ -38,17 +38,33 @@ namespace Ecommerce.Infrastructure.Repositories
 
         public void Dispose()
         {
-            throw new NotImplementedException();
-        }
- 
-        public Task Rollback()
-        {
-            throw new NotImplementedException();
+            Dispose(true);
+            GC.SuppressFinalize(this);
         }
 
-        public Task<int> Save(CancellationToken cancellationToken)
+        protected virtual void Dispose(bool disposing)
         {
-            throw new NotImplementedException();
+            if (disposed)
+            {
+                if (disposing)
+                {
+                    //dispose managed resources
+                    _dbContext.Dispose();
+                }
+            }
+            //dispose unmanaged resources
+            disposed = true;
+        }
+
+        public Task Rollback()
+        {
+            _dbContext.ChangeTracker.Entries().ToList().ForEach(e => e.ReloadAsync());
+            return Task.CompletedTask;
+        }
+
+        public async Task<int> Save(CancellationToken cancellationToken)
+        {
+            return await _dbContext.SaveChangesAsync(cancellationToken);
         }
 
         public Task<int> SaveAndRemoveCache(CancellationToken cancellationToken, params string[] cacheKeys)

@@ -1,9 +1,9 @@
-﻿using Ecommerce.Application.Interfaces.Repositories;
-using Ecommerce.Infrastructure.Contexts;
+﻿using Ecommerce.Infrastructure.Contexts;
 using Ecommerce.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Ecommerce.Application.Interfaces.Repositories;
 
 namespace Ecommerce.Infrastructure
 {

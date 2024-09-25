@@ -185,22 +185,40 @@ main[b-4gc57sz9ga] {
 
 .nav-scrollable[b-a51j3vx7fb] {
     display: none;
+    position: fixed; /* Keep the sidebar fixed on small screens */
+    top: 3.5rem; /* Position it just below the top row */
+    width: 250px;
+    left: 0;
+    height: calc(100vh - 3.5rem); /* Full height minus the top-row */
+    background-color: #121e2d;
+    overflow-y: auto; /* Allow scrolling inside the sidebar */
+    z-index: 999; /* Ensure it's on top of other content */
 }
 
 .navbar-toggler:checked ~ .nav-scrollable[b-a51j3vx7fb] {
     display: block;
+    backdrop-filter: blur(50px);
 }
+
+
+@media (max-width: 640.98px) {
+    /* Ensure the main content stays still */
+    main[b-a51j3vx7fb] {
+        padding-left: 0; /* Reset padding on small screens */
+        margin-left: 0; /* No margin shift */
+    }
+}
+
 
 @media (min-width: 641px) {
     .navbar-toggler[b-a51j3vx7fb] {
         display: none;
-
     }
 
     .nav-scrollable[b-a51j3vx7fb] {
         /* Never collapse the sidebar for wide screens */
         display: block;
-        z-index: 99;
+
         /* Allow sidebar to scroll for tall menus */
         height: calc(100vh - 3.5rem);
         overflow-y: auto;

@@ -84,11 +84,30 @@
 
 .nav-scrollable {
     display: none;
+    position: fixed; /* Keep the sidebar fixed on small screens */
+    top: 3.5rem; /* Position it just below the top row */
+    width: 250px;
+    left: 0;
+    height: calc(100vh - 3.5rem); /* Full height minus the top-row */
+    background-color: #121e2d;
+    overflow-y: auto; /* Allow scrolling inside the sidebar */
+    z-index: 999; /* Ensure it's on top of other content */
 }
 
 .navbar-toggler:checked ~ .nav-scrollable {
     display: block;
+    backdrop-filter: blur(50px);
 }
+
+
+@media (max-width: 640.98px) {
+    /* Ensure the main content stays still */
+    main {
+        padding-left: 0; /* Reset padding on small screens */
+        margin-left: 0; /* No margin shift */
+    }
+}
+
 
 @media (min-width: 641px) {
     .navbar-toggler {

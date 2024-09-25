@@ -90,3 +90,13 @@ D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore
 D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\System.Web.Http.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\System.Web.Http.WebHost.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Owin.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Owin.Security.OAuth.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Owin.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

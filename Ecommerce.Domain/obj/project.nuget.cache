@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VxcBZLhOP2NKcZuUFd8cGbTLzYzyfyeweXtX5IcquAPT6iie7BMcVnxccbJOVMyho5ugPiDpEMDAYlivP3c45Q==",
+  "dgSpecHash": "41InkgrkRyXKlgMklZ6qYE19s2WNLxE63eO4oP1t8oDvoYozFzBnlqQcnzl3sTetp+f5psYbzl12lkrJQ1QgMA==",
   "success": true,
-  "projectFilePath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

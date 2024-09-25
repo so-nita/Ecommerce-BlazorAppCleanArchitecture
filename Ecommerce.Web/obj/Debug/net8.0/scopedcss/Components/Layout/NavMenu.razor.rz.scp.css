@@ -93,12 +93,13 @@
 @media (min-width: 641px) {
     .navbar-toggler[b-a51j3vx7fb] {
         display: none;
+
     }
 
     .nav-scrollable[b-a51j3vx7fb] {
         /* Never collapse the sidebar for wide screens */
         display: block;
-
+        z-index: 99;
         /* Allow sidebar to scroll for tall menus */
         height: calc(100vh - 3.5rem);
         overflow-y: auto;

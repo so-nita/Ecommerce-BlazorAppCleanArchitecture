@@ -79,3 +79,14 @@ D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.pdb
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.genruntimeconfig.cache
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
 D:\MyFolder\Blazor\Ecommerce\Ecommerce.Web\obj\Debug\net8.0\Ecommerce.Web.sourcelink.json
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Blazorise.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Blazorise.Icons.FontAwesome.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Blazorise.Licensing.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MyFolder\Blazor\ecommerce\Ecommerce.Web\bin\Debug\net8.0\Microsoft.JSInterop.dll

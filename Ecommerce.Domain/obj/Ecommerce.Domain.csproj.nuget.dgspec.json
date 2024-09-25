@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
+    "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\obj\\",
+        "outputPath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

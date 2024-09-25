@@ -2,6 +2,10 @@
 {
     public enum Routers 
     {
+        login,
+        logout,
+        register,
+        about,
         home,
         counter,
         weather,

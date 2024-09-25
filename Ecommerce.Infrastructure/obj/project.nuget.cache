@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fs0JOU9XhmGsjda6XVCdrJf+hrx9AKaCSXAKROrZ3Qk6P0dVU0thW6aTr/L9Ky614w3L85+K7vP9mBD71MVZOg==",
+  "dgSpecHash": "81xvLxf6dNQMIFZVlWGoUf6dB28eTt9oLff1j1lg7x5I+BrCzDMHPigVytrV+KORrWoa6HB3i8KtxcKSvbT6Sg==",
   "success": true,
-  "projectFilePath": "D:\\MyFolder\\Blazor\\Ecommerce\\ecommerce.infrastructure\\Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Back-End.07\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -29,6 +29,7 @@
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.8\\microsoft.entityframeworkcore.tools.8.0.8.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Back-End.07\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",

@@ -784,9 +784,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectUniqueName": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "projectName": "Ecommerce.Application",
-      "projectPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectPath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
       "outputPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -810,8 +810,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-              "projectPath": "D:\\MyFolder\\Blazor\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+            "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+              "projectPath": "D:\\MyFolder\\Blazor\\ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
             }
           }
         }

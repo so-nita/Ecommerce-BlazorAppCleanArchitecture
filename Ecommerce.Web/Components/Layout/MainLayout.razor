@@ -1,26 +1,35 @@
 ﻿@inherits LayoutComponentBase
+@using Ecommerce.Web.Components.Contant;
 
 <PageTitle>BlazorServerCleanArchitecture.WebUI</PageTitle>
 
 <div class="page">
-    <div class="sidebar">
+    <div class="sidebar" >
         <NavMenu />
     </div>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="" class="mx-2 text-decoration-none " target="_blank">About</a>
-            <a href="" class="mx-2 text-decoration-none " target="_blank">Login</a>
+    <main >
+        <div class="top-row px-4 ">
+            <NavLink class="mx-2 text-decoration-none " href="@Routers.about.ToString()">
+                <i class="fa-solid fa-user"></i> About
+            </NavLink>
+            <NavLink class="mx-2 text-decoration-none " href="@Routers.login.ToString()">Login</NavLink>
         </div>
 
         <div class="row bg-white px-4 py-2" style="font-family: 'Roboto', sans-serif">
-            <span style="color: #1d2d42" class="fs-6">Dashboard</span>
+            <span style="color: #1d2d42" class="fs-6"> Dashboard </span>
         </div>
 
         <article class="content px-4 bg-light">
             @Body
         </article>
     </main>
+
+    @* <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - MyWebApplication - <a href=""></a>
+        </div>
+    </footer>  *@
 </div>
 
 <div id="blazor-error-ui">

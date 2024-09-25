@@ -1,8 +1,13 @@
 ﻿@page "/login"
 
+@using Ecommerce.Web.Components.Contant;
+
+
 <PageTitle>Login</PageTitle>
 
-<h3>login</h3>
+<h3><Icon Name="IconName.Mail" /> login</h3>
+
+<NavLink href="@Routers.register.ToString()"> Register </NavLink>
 
 @code {
 
